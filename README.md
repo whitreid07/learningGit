@@ -1,4 +1,4 @@
-# learningGit!
+# Learning Git!
 
 This is a new repo for me to learn git.
 
